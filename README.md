@@ -1,2 +1,2 @@
-# Lab3_Juegos
- Repositorio creado para la entrega del laboratorio 3 
+# Lab2_Juegos
+Repositorio creado para la entrega del Laboratorio 2 de Juegos. 
